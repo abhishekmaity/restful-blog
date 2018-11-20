@@ -1,5 +1,7 @@
 # RESTful Routes
 
+## 📰 Web blog build on RESTful routes and CURD 
+
 | Name | Path | HTTP |
 | --- | --- | --- |
 | index | /blog | GET |
