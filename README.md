@@ -1,6 +1,6 @@
 # RESTful Routes
 
-## Web blog build on RESTful routes and CURD 
+## Web blog build on RESTful routes and CRUD 
 
 | Name | Path | HTTP |
 | --- | --- | --- |
